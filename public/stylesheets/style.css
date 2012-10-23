@@ -1,0 +1,51 @@
+nav{
+	height: 10px;
+}
+
+header img{
+	margin-left: 0px;
+}
+header label{
+	color: #E4E4E4;
+	margin-left: 800px;
+	margin-top: auto;
+	font-size: 20px;
+}
+header ul{
+	margin-top: 0px;
+}
+#Aplicacion{
+	color: #E1E2DE;
+	font-weight: bold;
+	background: #272822;
+	height: 700px;
+
+}
+
+#ListaCamaras ul li{
+	list-style: none;
+}
+#PanelCamaras{
+	overflow: scroll;
+	height: 550px;
+}
+#PanelCamaras div{
+	margin-left: 0px;
+	margin-right: 50px;
+
+}
+#ListaCamaras ul li label{
+	display: inline;
+	margin-left: 0px;
+}
+#ListaCamaras ul li input{
+	display: inline;
+	margin-right: 5px;
+}
+.Visores{
+	height: 270px;
+	width: 330px;
+}
+#botones{
+	display: none;
+}

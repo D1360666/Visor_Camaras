@@ -1,0 +1,52 @@
+extends layout
+block content
+    script(src="/javascripts/main.js", type="text/javascript")
+    #Aplicacion
+      #modalLogin.modal.hide.fade
+        .modal-header
+          button.close(type="button", data-dismiss="modal", aria-hidden="true") X
+          h3 Bienvenido 
+            img(src="/images/imgusuario.jpg", width="100", height="100")
+        .modal-body
+        form.form-horizontal
+          .control-group
+            label.control-label(for="inputEmail") Usuario
+            .controls
+              input(id="inputEmail", type="text", id="inputEmail", placeholder="Usuario")
+          .control-group
+            label.control-label(for="inputPassword") Contraseña
+            .controls
+              input(id="inputPassword", type="password", placeholder="Contraseña") 
+          .modal-footer
+            a.btn(href="#/login") Iniciar Sesión
+            #cerrarModal.btn.btn-primary(href="#", class="btn btn-primary") Cerrar
+      #contenedor(style="display:none")
+        nav.well
+          ul.nav.nav-pills(id="listaMenu")
+            li
+              img(src="/images/logo.gif", width="60", height="70")
+            li
+              a(href="#/MostrarCamaras/Shopping") Shopping
+              span.divider
+            li
+              a(href="#/MostrarCamaras/Hipercentro") Hipercentro
+              span.divider
+            li
+              a(href="#/MostrarCamaras/Plaza") Plaza
+              span.divider
+            li
+              a(href="#/MostrarCamaras/Norte") Norte
+              span.divider
+            li
+              a(href="#/logout") Salir
+              span.divider
+        #principal
+          .row	
+            .span2.bs-docs-sidebar(id="ListaCamaras")
+              ul
+            #Visor
+              #botones
+               a.btn(href="#/Visor/LimpiarVisor") Limpiar
+              #PanelCamaras
+      footer
+        p(style="text-align:center") © Desarrollado por SuperStar Ltda

@@ -1,0 +1,7 @@
+E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\bin\VideoVigilancia.dll
+E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\bin\VideoVigilancia.pdb
+E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\bin\EntityFramework.dll
+E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\bin\EntityFramework.xml
+E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\obj\Debug\ResolveAssemblyReference.cache
+E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\obj\Debug\VideoVigilancia.dll
+E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\obj\Debug\VideoVigilancia.pdb

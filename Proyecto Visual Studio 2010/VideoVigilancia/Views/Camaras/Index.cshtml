@@ -1,0 +1,78 @@
+﻿    <div id="Aplicacion">
+      <div id="modalLogin" class="modal hide fade">
+        <div class="modal-header">
+          <button class="close" type="button" data-dismiss="modal" aria-hidden="true">
+            X
+          </button>
+          <h3>Bienvenido</h3>
+          <img src="/images/imgusuario.jpg" width="100" height="100" />  
+        </div>
+        <div class="modal-body">
+          <form action="" class="form-horizontal">
+            <div class="control-group">
+              <label class="control-label" for="inputEmail">Usuario</label> 
+              <div class="controls">
+                <input id="inputEmail" type="text" id="inputEmail" placeholder="Usuario" />
+              </div>
+            </div>
+            <div class="control-group">
+              <label class="control-label" for="inputPassword">Contraseña</label> 
+              <div class="controls">
+                <input id="inputPassword" type="text" id="password" placeholder="Contraseña" />
+              </div>
+            </div>
+            <div class="modal-footer">
+            <a href="#/login" class="btn">Iniciar Sesión</a>  
+            <div id="cerrarModal" class="btn btn-primary"> Cerrar         
+            </div>
+            </div>
+          </form>  
+        </div>
+      </div>
+<div id="contenedor" style="display:none">
+  <nav class="well">
+    <ul class="nav nav-pills" id="listaMenu">
+      <li>
+        <img src="/images/logo.gif" width="60" height="70" />
+      </li>
+      <li>
+        <a href="#/MostrarCamaras/Shopping">Shopping</a>
+        <span class="divider"></span>
+      </li>
+      <li>
+        <a href="#/MostrarCamaras/Hipercentro">Hipercentro</a>
+        <span class="divider"></span>
+      </li>
+      <li>
+        <a href="#/MostrarCamaras/Plaza">Plaza</a>
+        <span class="divider"></span>
+      </li>
+      <li>
+        <a href="#/MostrarCamaras/Norte">Norte</a>
+        <span class="divider"></span>
+      </li>
+      <li>
+        <a href="#/logout">Salir</a>
+        <span class="divider"></span>
+      </li>                  
+    </ul>
+  </nav>
+  <div id="principal">
+    <div class="row">
+      <div class="span2 bs-docs-sidebar" id="ListaCamaras">
+        <ul></ul>
+      </div>
+      <div id="Visor" class="container">
+        <div id="botones">
+          <a href="#/Visor/LimpiarVisor" class="btn">Limpiar</a>
+        </div>
+        <div id="PanelCamaras">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer>
+<p style="text-align:center">© Desarrollado por SuperStar Ltda</p>
+</footer>
+    </div>

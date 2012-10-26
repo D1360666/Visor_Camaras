@@ -5,3 +5,10 @@ E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVi
 E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\obj\Debug\ResolveAssemblyReference.cache
 E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\obj\Debug\VideoVigilancia.dll
 E:\Mis Documentos\SuperStar\Programacion\VideoVigilancia\VideoVigilancia\VideoVigilancia\obj\Debug\VideoVigilancia.pdb
+C:\Users\JESUS\Documents\GitHub\Visor_Camaras\Proyecto Visual Studio 2010\VideoVigilancia\bin\VideoVigilancia.dll
+C:\Users\JESUS\Documents\GitHub\Visor_Camaras\Proyecto Visual Studio 2010\VideoVigilancia\bin\VideoVigilancia.pdb
+C:\Users\JESUS\Documents\GitHub\Visor_Camaras\Proyecto Visual Studio 2010\VideoVigilancia\bin\EntityFramework.dll
+C:\Users\JESUS\Documents\GitHub\Visor_Camaras\Proyecto Visual Studio 2010\VideoVigilancia\bin\EntityFramework.xml
+C:\Users\JESUS\Documents\GitHub\Visor_Camaras\Proyecto Visual Studio 2010\VideoVigilancia\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JESUS\Documents\GitHub\Visor_Camaras\Proyecto Visual Studio 2010\VideoVigilancia\obj\Debug\VideoVigilancia.dll
+C:\Users\JESUS\Documents\GitHub\Visor_Camaras\Proyecto Visual Studio 2010\VideoVigilancia\obj\Debug\VideoVigilancia.pdb

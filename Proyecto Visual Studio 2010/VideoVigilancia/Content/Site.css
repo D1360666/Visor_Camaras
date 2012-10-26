@@ -18,16 +18,35 @@ header ul{
 	color: #E1E2DE;
 	font-weight: bold;
 	background: #272822;
-	height: 700px;
+	height: 100%;
+	width:100%;
+	position:absolute;
 
 }
-
+#contenedor
+{
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 #ListaCamaras ul li{
 	list-style: none;
 }
+#Visor
+{
+    
+}
+#principal
+{
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 #PanelCamaras{
 	overflow: scroll;
-	height: 550px;
+	height:700px;
+	
 }
 #PanelCamaras div{
 	margin-left: 0px;

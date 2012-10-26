@@ -124,7 +124,7 @@ namespace VideoVigilancia.Controllers
                     Nro_Sucursal = 3;
                 break;
                 case "Norte":
-                    Nro_Sucursal = 1;
+                    Nro_Sucursal = 4;
                 break;
                 default :
 //                  res.json({Mensaje: 'No existe sucursal'});

@@ -1,5 +1,6 @@
 $(document).ready(function(){
-  var path="/Camaras/";
+    var path="/Camaras/";
+    //var path = "/videovigilancia/Camaras/";
   var UsuarioModel = Backbone.Model.extend({
     initialize: function(){
 
@@ -268,7 +269,7 @@ var VistaCamaraDelVisor = Backbone.View.extend({
       html= html + "<embed type='application/x-java-applet' code='xplug.class' archive='xplug.jar' name='cvcs' width=" + largo + "' height='"+ ancho +"' codebase='http://" + this.model.get("Ip") + "' menuheight='40' RemotePort='80' Timeout='10000' RotateAngle='0' PreviewFrameRate='2' DeviceSerialNo='' mayscript='true' scriptable='true' xmode='view' bg='0xd5dfea' inittrigger='false' pluginspage='http://java.sun.com/javase/downloads/index.jsp'></embed>";
     
     break;
-    case 'Tplink':
+    case 'TP-Link':
       switch (this.model.get('Sucursal')){
           case 1:
             html= "<h5>" +"Shopping - " + this.model.get('Nombre') + "</h5>";
